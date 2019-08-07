@@ -1,0 +1,1 @@
+BasicCalculator.o: ../BasicCalculator.cpp
