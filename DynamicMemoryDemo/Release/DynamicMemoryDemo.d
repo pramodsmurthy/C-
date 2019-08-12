@@ -1,0 +1,1 @@
+DynamicMemoryDemo.o: ../DynamicMemoryDemo.cpp
