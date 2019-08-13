@@ -1,0 +1,1 @@
+FunctionTemplateDemo.o: ../FunctionTemplateDemo.cpp
