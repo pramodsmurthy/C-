@@ -19,7 +19,7 @@ int main()
 	cin >> var2;
 
 	char operation;
-	cout << "Enter math operation" << endl;
+	cout << "What you have to do calculate (Enter +, -, *, /)" << endl;
 	cin >> operation;
 	switch (operation) {
 	case '+':
